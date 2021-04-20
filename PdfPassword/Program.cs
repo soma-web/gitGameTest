@@ -18,7 +18,6 @@ namespace PdfPassword
             if (args == null || args.Length == 0) return;
 
             var pdfPath = args[0];
-            aslökdjasölkdjasöldkjasöldkjasödlkasdölkaqsdöalikjasd-öläkjasdölklasdassss
 
             var stopwatch = new Stopwatch();
 
