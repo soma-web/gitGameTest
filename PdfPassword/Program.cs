@@ -20,7 +20,7 @@ namespace PdfPassword
             var pdfPath = args[0];
 
             var stopwatch = new Stopwatch();
-            Console.WriteLine("BOOOOM!");
+            Console.WriteLine("Pssschhhhhh, leise!");
 
             if (!File.Exists(pdfPath))
             {
