@@ -19,10 +19,6 @@ namespace PdfPassword
 
             var pdfPath = args[0];
 
-
-            aölskjdalksjdlkasjdlkajskldjasd
-
-
             var stopwatch = new Stopwatch();
 
             if (!File.Exists(pdfPath))
